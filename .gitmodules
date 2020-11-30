@@ -4,7 +4,7 @@
 
 [submodule "deb_dist"]
     path = deb_dist
-    url = https://github.com/ArchiveBox/debian-archivebox.git
+    url = https://github.com/afreydev/debian-archivebox.git
 [submodule "brew_dist"]
 	path = brew_dist
 	url = https://github.com/ArchiveBox/homebrew-archivebox.git
